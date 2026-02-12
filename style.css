@@ -71,3 +71,18 @@ body {
   min-width: 135%;
   height: 183%;
 }
+
+.wrapper {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.caption {
+  margin-top: 2vh;
+  font-size: 2vh;
+  letter-spacing: 0.05em;
+  font-style: italic;
+  color: #073223;
+  opacity: 0.85;
+}
