@@ -69,5 +69,6 @@ body {
 
 .main-photo svg {
   min-width: 135%;
-  height: 183%;
+/*  height: 183%; */
+  height: auto;
 }
